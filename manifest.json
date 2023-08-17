@@ -1,0 +1,11 @@
+{
+  "id": "community.downloadbutton",
+  "version": "0.0.1",
+  "name": "DownloadButton",
+  "description": "Adds a download button to each stream in Stremio.",
+  "resources": [
+    "stream"
+  ],
+  "types": [],
+  "icon": "icon.png"
+}
