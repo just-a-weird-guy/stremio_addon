@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon xmlns="http://www.kodi.tv/addon/v1">
+  <id>community.downloadbutton</id>
+  <version>0.0.1</version>
+  <name>DownloadButton</name>
+  <description>Adds a download button to each stream in Stremio.</description>
+  <resources>
+    <stream>
+      <path>/resources/</path>
+    </stream>
+  </resources>
+  <types>
+  </types>
+  <icon>icon.png</icon>
+</addon>
